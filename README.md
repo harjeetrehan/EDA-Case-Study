@@ -5,7 +5,7 @@ This will ensure that the consumers capable of repaying the loan are not rejecte
  In other words, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. 
  The company can utilise this knowledge for its portfolio and risk assessment.
 
-# Steps performed in EDA-Case-Study
+#### Steps performed in EDA-Case-Study
 1) Understanding the data 
 2) Imbalance in the data 
 3) Outliers handling 
